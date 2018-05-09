@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/frag2"
+    android:background="#fff"
+    tools:context=".SignUp">
+
+    <!--<TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv1"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:text="Register Yourself "
+        android:layout_marginTop="108dp"
+        android:layout_marginLeft="120dp"/>
+    <EditText
+        android:id="@+id/edittext1"
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+        android:hint="type user name"
+        android:gravity="center"
+        android:inputType="textEmailAddress"
+        android:layout_marginTop="150dp"
+        android:layout_marginLeft="120dp"
+        />
+    <EditText
+        android:id="@+id/edittext2"
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+        android:hint="type password"
+        android:gravity="center"
+        android:inputType="textPassword"
+        android:layout_marginTop="200dp"
+        android:layout_marginLeft="120dp"
+        />
+    <EditText
+        android:id="@+id/edittext3"
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+        android:hint="re-type password"
+        android:inputType="textPassword"
+        android:gravity="center"
+        android:layout_marginTop="250dp"
+        android:layout_marginLeft="120dp"
+        />
+    <Button
+        android:id="@+id/btnSignup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Register!"
+        android:layout_marginTop="360dp"
+        android:layout_marginLeft="150dp"/>-->
+
+</FrameLayout>
